@@ -7,7 +7,7 @@ open Fable.Helpers.React
 
 type Model = string
 
-type Msg = Nothing
+type Msg = unit
 
 let init () : Model * Cmd<Msg> =
     "Initialized", Cmd.none

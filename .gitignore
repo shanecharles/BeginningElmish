@@ -1,5 +1,7 @@
 public/bundle.js*
 
+yarn.lock
+
 # Node
 node_modules/
 
